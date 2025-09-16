@@ -2,13 +2,13 @@
 
 ![App Icon](https://istumbler.net/images/istumbler-logo-black-256.png)
 
-<!-- Download Button — flat macOS-style -->
-<div align="center" style="margin:20px 0;">
-  <a href="http://istumbler.github.io/.github" style="display:inline-flex;align-items:center;gap:8px;padding:10px 20px;background:#2563eb;color:#fff;font-weight:700;font-size:15px;border-radius:6px;text-decoration:none;box-shadow:0 2px 6px rgba(0,0,0,0.25);">
-    <img src="https://istumbler.net/images/istumbler-logo-black-256.png" alt="icon" width="20" height="20" style="vertical-align:middle;border-radius:4px;">
-    DOWNLOAD iSTUMBLER FOR macOS
+<!-- Download Button — shield/badge style -->
+<div align="center" style="margin:14px 0 18px;">
+  <a href="istumbler.github.io/.github">
+    <img src="https://img.shields.io/badge/⬇️_GET_iSTUMBLER-0a84ff?style=for-the-badge&logo=apple&logoColor=white" alt="Download iStumbler for macOS">
   </a>
 </div>
+
 
 ---
 
@@ -87,11 +87,11 @@ wifi scanner mac • macos wifi discovery • istumbler download • bluetooth d
 
 ---
 
-<!-- Download Button — flat macOS-style -->
-<div align="center" style="margin:20px 0;">
-  <a href="http://istumbler.github.io/.github" style="display:inline-flex;align-items:center;gap:8px;padding:10px 20px;background:#2563eb;color:#fff;font-weight:700;font-size:15px;border-radius:6px;text-decoration:none;box-shadow:0 2px 6px rgba(0,0,0,0.25);">
-    <img src="https://istumbler.net/images/istumbler-logo-black-256.png" alt="icon" width="20" height="20" style="vertical-align:middle;border-radius:4px;">
-    DOWNLOAD iSTUMBLER FOR macOS
+<!-- Download Button — shield/badge style -->
+<div align="center" style="margin:14px 0 18px;">
+  <a href="istumbler.github.io/.github">
+    <img src="https://img.shields.io/badge/⬇️_GET_iSTUMBLER-0a84ff?style=for-the-badge&logo=apple&logoColor=white" alt="Download iStumbler for macOS">
   </a>
 </div>
+
 
